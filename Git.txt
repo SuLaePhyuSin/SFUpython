@@ -1,0 +1,44 @@
+username-NangSuLaePhyuSin
+password-P1@17#june2002
+Email-nangsulaephyusin@gmail.com
+
+Step1: Git Download
+Step:2 Git Installationo
+Step:3 Gitthub Accounot Creation
+Step:4 Git Repository
+Step:5 A file to upload on github
+Step:6 Git Command Line
+
+cd Path-Goto Directory
+
+First Time (New Repository)
+			git init
+			git add.
+			git config global user.email "nangsulaephyusin@gmail.com"
+			git config global user.name "NangSuLaePhyuSin"
+
+			git commit -m "first commit"
+			git remote add origin https://github.com/NangSuLaePhyuSin/Sample.git
+			git push -u origin master
+
+(New Repository for New Project)
+			git init
+			git add.
+			git config global user.email "nangsulaephyusin@gmail.com"
+			git config global user.name "NangSuLaePhyuSin"
+
+			git commit -m "first commit"
+			git remote add origin https://github.com/NangSuLaePhyuSin/Sample.git
+			git push -u origin master
+
+(Old Repository for New Project)
+			git add.
+			git commit -m "second commit"
+			git push
+
+(Existing Project To Other Laptop)
+
+			git pull
+
+(Other Person Project To Own Laptop)
+			git clone https://github.com/NangSuLaePhyuSin/Sample.git
