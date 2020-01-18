@@ -2,20 +2,21 @@ username-NangSuLaePhyuSin
 password-P1@17#june2002
 Email-nangsulaephyusin@gmail.com
 
+
 Step1: Git Download
-Step:2 Git Installationo
-Step:3 Gitthub Accounot Creation
-Step:4 Git Repository
-Step:5 A file to upload on github
-Step:6 Git Command Line
+Step2: Git Installationo
+Step3: Gitthub Accounot Creation
+Step4: Git Repository
+Step5: A file to upload on github
+Step6: Git Command Line
 
 cd Path-Goto Directory
 
 First Time (New Repository)
 			git init
 			git add.
-			git config global user.email "nangsulaephyusin@gmail.com"
-			git config global user.name "NangSuLaePhyuSin"
+			git config --global user.email "nangsulaephyusin@gmail.com"
+			git config --global user.name "NangSuLaePhyuSin"
 
 			git commit -m "first commit"
 			git remote add origin https://github.com/NangSuLaePhyuSin/Sample.git
@@ -24,8 +25,8 @@ First Time (New Repository)
 (New Repository for New Project)
 			git init
 			git add.
-			git config global user.email "nangsulaephyusin@gmail.com"
-			git config global user.name "NangSuLaePhyuSin"
+			git config --global user.email "nangsulaephyusin@gmail.com"
+			git config --global user.name "NangSuLaePhyuSin"
 
 			git commit -m "first commit"
 			git remote add origin https://github.com/NangSuLaePhyuSin/Sample.git
