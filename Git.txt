@@ -1,4 +1,4 @@
-username-NangSuLaePhyuSin
+username-SuLaePhyuSin
 password-P1@17#june2002
 Email-nangsulaephyusin@gmail.com
 
@@ -16,20 +16,17 @@ First Time (New Repository)
 			git init
 			git add.
 			git config --global user.email "nangsulaephyusin@gmail.com"
-			git config --global user.name "NangSuLaePhyuSin"
+			git config --global user.name "SuLaePhyuSin"
 
 			git commit -m "first commit"
-			git remote add origin https://github.com/NangSuLaePhyuSin/Sample.git
+			git remote add origin https://github.com/SuLaePhyuSin/Sample.git
 			git push -u origin master
 
 (New Repository for New Project)
 			git init
 			git add.
-			git config --global user.email "nangsulaephyusin@gmail.com"
-			git config --global user.name "NangSuLaePhyuSin"
-
 			git commit -m "first commit"
-			git remote add origin https://github.com/NangSuLaePhyuSin/Sample.git
+			git remote add origin https://github.com/SuLaePhyuSin/Sample.git
 			git push -u origin master
 
 (Old Repository for New Project)
