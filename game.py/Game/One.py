@@ -15,7 +15,7 @@ walkLeft = [pygame.image.load('L1.png'),
             pygame.image.load('L9.png'),
             ]
             
-walkRight =[pygame.image.load('R1.png'),
+walkRight = [pygame.image.load('R1.png'),
              pygame.image.load('R2.png'),
              pygame.image.load('R3.png'),
              pygame.image.load('R4.png'),
@@ -25,7 +25,7 @@ walkRight =[pygame.image.load('R1.png'),
              pygame.image.load('R8.png'),
              pygame.image.load('R9.png')
              ]
-bg = pygame.image.load('bgone.jpg')
+bg = pygame.image.load('bg.jpg')
 char = pygame.image.load('standing.png')
 char2 = pygame.image.load('standing.png')
 
